@@ -117,5 +117,12 @@
   "ZOOM_OUT": "Zoom out",
   "RESET_ZOOM": "Reset zoom",
   "DEFAULT_COLORS_ALREADY_USED": "Already using default colors",
-  "ONLY_1_SOLUTION": "It has only 1 solution."
+  "ONLY_1_SOLUTION": "It has only 1 solution.",
+  "SHARE": "Share",
+  "SHARE_TITLE": "Queens Game - {{levelLabel}}",
+  "SHARE_TEXT": "I completed {{levelLabel}} in {{time}}! Can you beat my time?",
+  "SHARE_TEXT_WITH_FIRST_SOLVE": "I completed {{levelLabel}} in {{time}}! (First solve: {{firstSolveTime}}) Can you beat my time?",
+  "SHARE_COPIED_TO_CLIPBOARD": "Text copied to clipboard!",
+  "SHARE_COPY_MANUALLY": "Copy this text to share:",
+  "FIRST_SOLVE": "First solve"
 }
