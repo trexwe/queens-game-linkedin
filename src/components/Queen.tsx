@@ -11,10 +11,12 @@ const Queen = ({ size = "24", className = "" }) => {
       >
         <title>Queen</title>
         <g>
-          {/* Simple crown design matching favicon */}
-          <path d="M3 8 L6 4 L8 7 L12 3 L16 7 L18 4 L21 8 L21 13 L3 13 Z M4 15 L20 15 L20 19 L4 19 Z" />
-          {/* Optional: Add a gem in the center */}
-          <path d="M10.5 10 L12 8 L13.5 10 L12 12 Z" opacity="0.7" />
+          {/* Crown outline matching favicon - three points with center tallest */}
+          <path d="M3 14 L5 10 L7.5 13 L12 6 L16.5 13 L19 10 L21 14 L21 15 L3 15 Z" />
+          {/* Crown base */}
+          <path d="M4 16 L20 16 L20 20 L4 20 Z" />
+          {/* Blue gem in center - using fill instead of currentColor */}
+          <path d="M11 10 L12 8.5 L13 10 L12 11.5 Z" fill="#4169E1" />
         </g>
       </svg>
     </span>
