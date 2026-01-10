@@ -3,7 +3,6 @@ import { Link } from "react-router-dom";
 import { Shuffle } from "lucide-react";
 import LevelSelectionFilters from "./components/LevelSelectionFilters";
 import LevelsCollection from "./components/LevelsCollection";
-import LinkedInNote from "./components/LinkedInNote";
 import ResetAllProgressDialog from "./components/ResetAllProgressDialog";
 import {
   getGroupingPreference,
@@ -90,7 +89,6 @@ const LevelSelection = () => {
         resetTrigger={resetTrigger}
         className="mb-3"
       />
-      <LinkedInNote />
     </div>
   );
 };

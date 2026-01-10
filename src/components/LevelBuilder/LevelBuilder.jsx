@@ -64,7 +64,7 @@ const LevelBuilder = () => {
 
   const { t } = useTranslation();
 
-  const isLinkedInLevel = levelType === "linkedin";
+  const isRegularLevel = levelType === "regular";
   const isCommunityLevel = levelType === "community";
 
   const colorOptions = useMemo(
@@ -374,7 +374,7 @@ const LevelBuilder = () => {
 
         {isCommunityLevel && <Note />}
 
-        {isLinkedInLevel && (
+        {isRegularLevel && (
           <LevelNameInput levelName={levelName} setLevelName={setLevelName} />
         )}
 
@@ -505,7 +505,7 @@ const LevelBuilder = () => {
               </div>
             </div>
 
-            {isLinkedInLevel && (
+            {isRegularLevel && (
               <SectionJSCode
                 jsCode={jsCode}
                 setJsCode={setJsCode}

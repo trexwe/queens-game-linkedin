@@ -41,7 +41,6 @@
   "TOLERANCE": "Tolerancia",
   "MINIMUM_LINE_HEIGHT": "Alto mínimo de línea",
   "MINIMUM_LINE_WIDTH": "Ancho mínimo de línea",
-  "COLLECTED_FROM": "Obtenido de",
   "SOMETHING_WENT_WRONG": "Algo salió mal :(",
   "TRY_AGAIN": "Intentar de Nuevo",
   "COLOR": {
@@ -87,8 +86,8 @@
   "CREATED_BY_2": "Creado por:",
   "LEVEL_TYPE": "Tipo de Nivel",
   "COMMUNITY_LEVELS_DESCRIPTION": "Crea tu propio nivel para la comunidad",
-  "LINKEDIN_LEVEL": "Nivel de LinkedIn",
-  "LINKEDIN_LEVELS_DESCRIPTION": "Clona niveles del juego original",
+  "REGULAR_LEVEL": "Nivel Regular",
+  "REGULAR_LEVELS_DESCRIPTION": "Crear niveles de rompecabezas estándar",
   "COMMUNITY_LEVEL_NOTE": "Nota: Puedes crear <1>1 nivel gratutitamente</1>. ¿Quieres más? Obtén <4>5 niveles</4> por $5 en Patreon <6> aquí</6>.",
   "CREATED_BY_3": "Creado Por",
   "YOUR_NAME_NICKNAME": "Tu nombre/pseudónimo",

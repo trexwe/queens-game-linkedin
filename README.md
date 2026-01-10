@@ -12,9 +12,7 @@
 
 <div align="center">
   <div>
-    A <strong>completely free, open-source educational puzzle game</strong> that teaches coding concepts to children through strategic gameplay. Based on the
-    <a href="https://www.linkedin.com/showcase/queens-game">
-      Queens game by LinkedIn</a>.
+    A <strong>completely free, open-source educational puzzle game</strong> that teaches coding concepts to children through strategic gameplay. An independent Queens puzzle game focused on education and community.
   </div>
   <br />
   <div>
@@ -48,7 +46,7 @@ This project transforms the Queens puzzle game into an **educational platform** 
 
 - **🚀 GitHub Pages Deployment** - Automated CI/CD with GitHub Actions
 - **💰 Zero Monetization** - No Patreon, no sponsors, no paywalls
-- **🎨 500+ Puzzle Levels** - Recreated from LinkedIn's Queens game
+- **🎨 600+ Puzzle Levels** - Community-driven puzzle collection
 - **🏗️ Community Levels** - Unlimited free level creation for everyone
 - **🌓 Dark Mode** - Full theme support
 - **🌍 Multi-language** - 8 languages supported
@@ -81,7 +79,7 @@ Create your own puzzle levels using our built-in [Level Builder](https://trexwe.
 
 ### Creating Levels
 
-1. **LinkedIn Levels** - Help recreate missing LinkedIn levels using the manual builder or image import
+1. **Regular Levels** - Help create new puzzle levels using the manual builder or image import
 2. **Community Levels** - Design and share unlimited custom puzzles with the community
 3. **Image Import** - Paste a screenshot and let the builder detect the puzzle
 
