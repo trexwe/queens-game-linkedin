@@ -40,7 +40,6 @@
   "TOLERANCE": "Tolerância",
   "MINIMUM_LINE_HEIGHT": "Altura mínima da linha",
   "MINIMUM_LINE_WIDTH": "Largura mínima da linha",
-  "COLLECTED_FROM": "Coletado de",
   "SOMETHING_WENT_WRONG": "Algo deu errado :(",
   "TRY_AGAIN": "Tente novamente",
   "COLOR": {
@@ -86,8 +85,8 @@
   "CREATED_BY_2": "Criado por:",
   "LEVEL_TYPE": "Tipo de nível",
   "COMMUNITY_LEVELS_DESCRIPTION": "Crie seu próprio nível para a comunidade",
-  "LINKEDIN_LEVEL": "Nível do LinkedIn",
-  "LINKEDIN_LEVELS_DESCRIPTION": "Copiar níveis do jogo original",
+  "REGULAR_LEVEL": "Nível Regular",
+  "REGULAR_LEVELS_DESCRIPTION": "Criar níveis de quebra-cabeça padrão",
   "COMMUNITY_LEVEL_NOTE": "Nota: Você pode criar <1>1 nível grátis</1>. Quer mais? Tenha acesso a <4>5 níveis</4> por $5 no Patreon <6> aqui</6>.",
   "CREATED_BY_3": "Criado por",
   "YOUR_NAME_NICKNAME": "Seu nome/nick",

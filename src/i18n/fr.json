@@ -41,7 +41,6 @@
   "TOLERANCE": "Tolérance",
   "MINIMUM_LINE_HEIGHT": "Hauteur minimum de ligne",
   "MINIMUM_LINE_WIDTH": "Largeur minimum de ligne",
-  "COLLECTED_FROM": "Collecté depuis",
   "SOMETHING_WENT_WRONG": "Une erreur s'est produite :(",
   "TRY_AGAIN": "Réessayer",
   "COLOR": {
@@ -87,8 +86,8 @@
   "CREATED_BY_2": "Créé par :",
   "LEVEL_TYPE": "Type de niveau",
   "COMMUNITY_LEVELS_DESCRIPTION": "Créer votre propre niveau pour la communauté",
-  "LINKEDIN_LEVEL": "Niveau LinkedIn",
-  "LINKEDIN_LEVELS_DESCRIPTION": "Cloner les niveaux depuis le jeu original",
+  "REGULAR_LEVEL": "Niveau Régulier",
+  "REGULAR_LEVELS_DESCRIPTION": "Créer des niveaux de puzzle standard",
   "COMMUNITY_LEVEL_NOTE": "Note : Vous pouvez créer <1>1 niveau gratuitement</1>. Vous en souhaitez plus ? Obtenez <4>5 niveaux</4> pour 5$ sur Patreon <6> en cliquant ici</6>.",
   "CREATED_BY_3": "Créé par",
   "YOUR_NAME_NICKNAME": "Votre nom/Pseudo",
