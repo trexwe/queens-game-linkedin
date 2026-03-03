@@ -3,7 +3,7 @@ name: Auto-merge Upstream
 on:
   schedule:
     # Run daily at 2 PM UTC
-    - cron: '0 14 * * *'
+    # - cron: '0 14 * * *'
   workflow_dispatch:
     inputs:
       dry_run:
